@@ -34,4 +34,14 @@ It helps businesses identify high-value customer segments and improve marketing 
 - Provided insights for better inventory and marketing planning.  
 - Built a clean, reusable EDA notebook for retail data analysis.  
 
-## 📁 Repository Structure
+diwali-sales-analysis
+┣ 📄 Diwali_Jupyter.ipynb
+┣ 📄 Diwali Sales Data.csv
+┣ 📄 README.md
+
+
+
+##  How to Run
+```bash
+pip install pandas numpy matplotlib seaborn jupyter
+jupyter notebook Diwali_Jupyter.ipynb
